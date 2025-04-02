@@ -2,7 +2,7 @@
 
 class script(object):
   START_TXT = """
-  𝙷𝚎𝚕𝚕𝚘 {}, 𝙸'𝚊𝚖 <a href='https://github.com/kalanakt/Pyrogram-Telegram-Bot-Template'>Pyrogram Bot</a>
+  𝙷𝚎𝚕𝚕𝚘 {}, 𝙸'𝚊𝚖 <a href='https://t.me/H4CKERSADDA'>Pyrogram Bot</a>
   𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝙱𝚘𝚝.  
   """
   
