@@ -4,7 +4,7 @@ from config import Config
 
 bot = Client(
     "bot",
-    bot_token=Config.BOT_TOKEN,
+    bot_token=Config.7722747376:AAFygs5miRtkjXLMzvaqVIFQJ9D2kcrcrxo,
     api_id=Config.23556070,
     api_hash=Config.83179ee32ab99592bf173238a72ca7f4,
     workers=50,
