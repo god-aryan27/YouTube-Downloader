@@ -2,7 +2,7 @@ from pyrogram.raw import functions, types
 from pyrogram import Client, idle
 from config import Config
 
-bot = Client(
+bot = Client
     "bot",
     bot_token=Config.7722747376:AAFygs5miRtkjXLMzvaqVIFQJ9D2kcrcrxo,
     api_id=Config.23556070,
